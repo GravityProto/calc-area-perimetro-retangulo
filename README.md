@@ -1,2 +1,2 @@
 # calc-formas-geometricas
-Calculadora simples de javascript para calcular area e base de um triangulo
+Calculadoras simples baseadas em calculos de diferentes formas geometricas
